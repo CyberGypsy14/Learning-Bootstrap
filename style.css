@@ -1,0 +1,39 @@
+.mycontainer{
+    background-color: orange;
+    border: 3px solid black;
+}
+
+.mycols{
+    border: 3px solid yellow;
+}
+
+.myrows{
+    border: 3px solid white;
+    padding: 5px;
+}
+
+#topheader{
+    background-color:ghostwhite;
+    text-align: right;
+    border-bottom: 1px solid grey;
+}
+
+#topheader a{
+    font-weight: 600;
+    font-size: 0.89rem;
+    color: #2c3e50;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar-nav{
+    padding-left: 10px;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
